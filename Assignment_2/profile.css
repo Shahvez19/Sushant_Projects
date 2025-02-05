@@ -1,0 +1,67 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ad8888;
+    color: #000000;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+header {
+    text-align: center;
+    background:  #7c6565;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+section {
+    margin: 20px 0; 
+    padding: 15px;
+    background: #f9f9f9;
+    border-radius: 5px;
+}
+
+.contact ul, .skills ul, .Projects ul{
+    list-style: none;
+    padding: 0;
+}
+
+.contact ul li, .skills ul li, .Projects ul li{
+    background: #7c6565;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+.profile-img {
+    text-align: center;
+}
+
+.profile-img img {
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #7c6565;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #7c6565;
+    color: rgb(0, 0, 0);
+    border-radius: 10px 10px 10px 10px;
+}
+.c1{
+    line-height:17px;
+    margin-bottom: 2%;
+    background: #7c6565;
+    border-radius: 5px;
+}
